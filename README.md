@@ -1,5 +1,5 @@
-### 👋 Hi, I'm Thomas Vilet
-# 🚀 Full-Stack Developer | Problem Solver | Team Leader
+# 👋 Hi, I'm Thomas Vilet
+## 🚀 Full-Stack Developer | Problem Solver | Team Leader
 
 With 3+ years of experience in full-stack development, I focus on building scalable, user-centric applications that improve business efficiency. From crafting responsive front-ends with Vue.js and React to architecting robust back-ends with Node.js, Docker, and Firebase, I deliver end-to-end solutions tailored to client needs.
 
