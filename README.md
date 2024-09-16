@@ -6,8 +6,13 @@ With 3+ years of experience in full-stack development, I focus on building scala
 I'm passionate about bridging communication gaps between technical teams and business objectives, and I enjoy leading projects to success. Currently, I'm freelancing, building applications that deliver results!
 
 💡 Current Project: Developing a social media app for fitness enthusiasts.  
-🔧 Skills: Python, JavaScript, Vue.js, Node.js, MongoDB, Firebase, CI/CD, APIs.    
+🔧 Skills: Python, JavaScript, Vue.js, Node.js, MongoDB, Firebase, MySQL, PostgreSQL CI/CD, APIs.    
 🌍 Location: Greater Chicago Area  
+
+## 🎓 Background
+
+I graduated from **DePauw University** with a B.S. in Computer Science, earning 5x Dean's List honors.  
+🐅 Go Tigers!
 
 Feel free to connect!
 📧 tvilet3@gmail.com
