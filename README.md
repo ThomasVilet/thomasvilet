@@ -14,6 +14,6 @@ I'm passionate about bridging communication gaps between technical teams and bus
 I graduated from **DePauw University** with a B.S. in Computer Science, earning 5x Dean's List honors.  
 🐅 Go Tigers!
 
-Feel free to connect!
-📧 tvilet3@gmail.com
-💼 LinkedIn
+Feel free to connect!  
+📧 tvilet3@gmail.com  
+💼 LinkedIn  
