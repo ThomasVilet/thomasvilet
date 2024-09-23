@@ -14,7 +14,7 @@ I'm passionate about bridging communication gaps between technical teams and bus
 ## 🎓 Background
 
 I graduated from **DePauw University** with a B.S. in Computer Science, earning **5x Dean's** List honors.  
-I was a member of the Men's Varsity Soccer team, earning the **Biggest Impact Off the Field Award** when injury prone!  
+I was a member of the Men's Varsity Soccer team, earning the **Biggest Impact Off the Field Award** when injury prone.  
 🐅 Go Tigers!
 
 Feel free to connect!  
